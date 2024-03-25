@@ -15,5 +15,8 @@ The purpose of this project is to assess classifications for flight cancellation
 1. Download the '2018.csv' file containing past flight data from [The Airline Delay and Cancellation Kaggle Dataset](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?select=2018.csv) to your local machine
 2. Download the Jupyter notebooks to the same folder where 2018.csv is located on your local machine
 
+### Additional Resources
+- [Project Overview Presentation](https://docs.google.com/presentation/d/1qYAqnZty1S7pilqShmeUSwmCldblMt-khFa1e_lt2hI/edit?usp=sharing) 
+
 ## Credits
 - [Airline Kaggle Dataset](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?select=2018.csv)
