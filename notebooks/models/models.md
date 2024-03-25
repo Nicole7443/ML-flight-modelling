@@ -4,5 +4,5 @@ This folder contains the follow notebooks:
 - Delay Multi-Cause Classification
 - Flight Cancellation Predictor
 - Flight Duration Predictor
-- Flight Anomaly Classification (K-means-cluster.ipynb)
+- Flight Anomaly Classification (notebooks/models/K-means-clustering.ipynb)
 - Flight Delay Duration Prediction
