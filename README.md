@@ -1,5 +1,5 @@
 # Flight Modelling Project ✈️
-By Nicole Thapa, Dharsaa Bhagudeva, Taylow Liew, Kathryn Percy-Robb, Harpreet Ghotra
+By Nicole Thapa, Dharsaa Bhagudeva, Taylor Liew, Kathryn Percy-Robb, Harpreet Ghotra
 
 This project was completed as the final project for MSCI 446: Introduction to Machine Learning 
 
