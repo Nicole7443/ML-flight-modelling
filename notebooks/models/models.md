@@ -1,1 +1,8 @@
-readme
+### Models Folder
+
+This folder contains the follow notebooks:
+- Delay Multi-Cause Classification
+- Flight Cancellation Predictor
+- Flight Duration Predictor
+- Flight Anomaly Classification
+- Flight Delay Duration Prediction
